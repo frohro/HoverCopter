@@ -603,6 +603,7 @@ F 0 "J4" H 2700 4000 50  0000 R CNN
 F 1 "Shaft_Angle_Encoder" H 2900 3700 50  0000 R CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical" H 2750 3950 50  0001 C CNN
 F 3 "https://www.te.com/usa-en/products/connectors/pcb-connectors/intersection/mta-100-mta-156-connectors.html?tab=pgp-story" H 2750 3950 50  0001 C CNN
+F 4 "https://cdn.automationdirect.com/static/specs/encoderld.pdf" H 2750 3950 50  0001 C CNN "Encoder Data"
 	1    2750 3950
 	1    0    0    -1  
 $EndComp

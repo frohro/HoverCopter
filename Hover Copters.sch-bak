@@ -704,4 +704,6 @@ Wire Wire Line
 	2950 3950 3050 3950
 Wire Wire Line
 	3050 4050 2950 4050
+Text Notes 5700 4500 0    50   ~ 0
+Move the IO pins to IO18 and IO19 for the shaft angle encoder.
 $EndSCHEMATC
