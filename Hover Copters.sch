@@ -14,7 +14,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Comp
-L ESP32-DEVKITC-32D:ESP32-DEVKITC-32D U1
+L Hover-Copters-rescue:ESP32-DEVKITC-32D-ESP32-DEVKITC-32D U1
 U 1 1 60528A5A
 P 5450 3300
 F 0 "U1" H 5450 4467 50  0000 C CNN
@@ -704,4 +704,6 @@ Wire Wire Line
 	2950 3950 3050 3950
 Wire Wire Line
 	3050 4050 2950 4050
+Text Notes 5700 4500 0    50   ~ 0
+Move the IO pins to IO18 and IO19 for the shaft angle encoder.
 $EndSCHEMATC
